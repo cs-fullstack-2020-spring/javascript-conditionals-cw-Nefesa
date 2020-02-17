@@ -33,11 +33,8 @@ console.log (" That is not correct");
 // [NUMBER] is negative.
 
 let enterNumber = prompt (" Some number");
-if ("=> 10 ") {
-console.log ("10 is positive");}
-{ else
-
-} console.log ("10 is negative ")
+if ("some number ==some number + positive ") 
+console.log ( "10 is positive");
 
 
 
@@ -57,6 +54,27 @@ console.log ("10 is positive");}
 // Oherwise alert the user
 // ```
 // The sum of [FIRST NUMBER] and [SECOND NUMBER] is odd.
+
+let anyNumber = prompt ( 30 );
+let anyNumber2 = prompt (25);
+if ("the total") {
+    ( 30== 25 )
+    console.log ("Even")
+} else {
+    alert("the total")
+   
+}
+
+
+
+
+
+
+
+
+
+
+
 // ```
 // ### Problem 4 :
 // Define a variable called `secretWord` with the string value "secret". Ask the user to enter a word. Ask the user to enter another word. If the words are the same OR one of the words matches `secretWord` print 
