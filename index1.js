@@ -15,13 +15,13 @@
 // THAT IS...
 // NOT CORRECT
 // ```
-let anyWord = prompt ("Happy");
-let sameWord = prompt ("Laugh");
-if (" Happy == Laugh"); 
-console.log ("That is correct");
-if (" Happy != Laugh");
-console.log (" That is not correct");
-
+// let anyWord = prompt ("Happy");
+// let sameWord = prompt ("Laugh");
+// // this is not a condition, it's a string, it will always equal true
+// if (" Happy == Laugh"); 
+// console.log ("That is correct");
+// if (" Happy != Laugh");
+// console.log (" That is not correct");
 
 // ### Problem 2 :
 // Ask the user to enter a number. If the number is positive print 
@@ -32,11 +32,11 @@ console.log (" That is not correct");
 // ```
 // [NUMBER] is negative.
 
-let enterNumber = prompt (" Some number");
-if ("some number ==some number + positive ") 
-console.log ( "10 is positive");
-
-
+// let enterNumber = prompt (" Some number");
+// // this is a string, not a condition, it will always equal true
+// // you want to know if enterNumber is positive. A number is positive if it is greater than 0
+// if ("some number ==some number + positive ") 
+// console.log ( "10 is positive");
 
 // ```
 // ### Problem 3 :
@@ -48,15 +48,17 @@ console.log ( "10 is positive");
 // ```
 // The sum of [FIRST NUMBER] and [SECOND NUMBER] is odd.
 
-let anyNumber = prompt ( 30 );
-let anyNumber2 = parsInt(prompt (25));
-if ("the total") {
-    ( 30== 25 )
-    console.log ("Even")
-} else {
-    alert("the total")
+// // you should be prompting the user to enter a number
+// let anyNumber = prompt ( 30 );
+// let anyNumber2 = parsInt(prompt (25));
+// // // this is a string, not a condition, it will always equal true
+// if ("the total") {
+//     ( 30== 25 )
+//     console.log ("Even")
+// } else {
+//     alert("the total")
    
-}
+// }
 
 
 
@@ -83,9 +85,9 @@ if ("the total") {
 // Locked Out
 // ```
 
-let anotherdWord = prompt ("Secret Word");
-if( anotherWord == "Secret" || anotherWord == "Secret");
-console.log ("Secret Word");
+// let anotherdWord = prompt ("Secret Word");
+// if( anotherWord == "Secret" || anotherWord == "Secret");
+// console.log ("Secret Word");
 
 
 
