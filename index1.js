@@ -38,13 +38,6 @@ console.log ( "10 is positive");
 
 
 
-
-
-
-
-
-
-
 // ```
 // ### Problem 3 :
 // Ask the user to enter a number. Ask the user to enter another number. If the sum of those two numbers is even alert the user 
@@ -56,7 +49,7 @@ console.log ( "10 is positive");
 // The sum of [FIRST NUMBER] and [SECOND NUMBER] is odd.
 
 let anyNumber = prompt ( 30 );
-let anyNumber2 = prompt (25);
+let anyNumber2 = parsInt(prompt (25));
 if ("the total") {
     ( 30== 25 )
     console.log ("Even")
@@ -64,14 +57,6 @@ if ("the total") {
     alert("the total")
    
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -97,6 +82,16 @@ if ("the total") {
 // ```
 // Locked Out
 // ```
+
+let anotherdWord = prompt ("Secret Word");
+if( anotherWord == "Secret" || anotherWord == "Secret");
+console.log ("Secret Word");
+
+
+
+
+
+
 
 // ### Challenge:
 // Ask the user to enter a day of the week. Print the corresponding Spanish word. If they do not input a day of the week print "That is not a day of the week in English."
